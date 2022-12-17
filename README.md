@@ -8,4 +8,4 @@ you can see tables and data imported in database
 now download ecommerce file provided in the repository 
 place ecommerce file in Xampp/htdocs/ folder
 now in the browser enter localhost/ecommerce/home.php
-you can create a new account using your credentials and explore..
+you can create a new account using your credentials and explore...
